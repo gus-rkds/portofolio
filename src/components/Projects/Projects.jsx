@@ -20,7 +20,7 @@ function Projects() {
             <ProjectCard
               imgPath={movies}
               isBlog={false}
-              title="Trip Trip"
+              title="The movies place"
               description="movies app made with React, styled with Sass and the MovieDB API to fetch movie data, it allows you to find all kind of movies and tv series, when you click on a movie or tv serie it will show you a detailed description of the movie and the cast in addition to trailers published on youtube"
               link="https://themoviesplace.vercel.app/movie/453395"
             />
