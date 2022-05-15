@@ -7,7 +7,7 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
-const resumeLink = "http://localhost:3000/src/Assets/gus.pdf";
+const resumeLink = "https://portofolio-rust.vercel.app/assets/gus.e919211c.pdf";
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
