@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import triptrip from "../../Assets/Projects/trip_trip.png";
 import todo from "../../Assets/Projects/todolist.png";
 import movies from "../../Assets/Projects/themoviesplace.png";
-import nft from "../../Assets/Projects/bigheads.png";
+import nft from "../../Assets/Projects/nft.zip";
 
 function Projects() {
   return (
