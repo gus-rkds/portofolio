@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import triptrip from "../../Assets/Projects/trip_trip.png";
 import todo from "../../Assets/Projects/todolist.png";
 import movies from "../../Assets/Projects/themoviesplace.png";
+import nft from "../../Assets/Projects/bigheads.png";
 
 function Projects() {
   return (
@@ -38,40 +39,10 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={triptrip}
+              imgPath={nft}
               isBlog={false}
-              title="Trip Trip"
-              description="this is my first Landing page, built with basic html, Bootstrap and CSS, it has a beautiful design and decoration."
-              link="https://gus-rkds.github.io/trip-trip/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={triptrip}
-              isBlog={false}
-              title="Trip Trip"
-              description="this is my first Landing page, built with basic html, Bootstrap and CSS, it has a beautiful design and decoration."
-              link="https://gus-rkds.github.io/trip-trip/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={triptrip}
-              isBlog={false}
-              title="Trip Trip"
-              description="this is my first Landing page, built with basic html, Bootstrap and CSS, it has a beautiful design and decoration."
-              link="https://gus-rkds.github.io/trip-trip/"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={triptrip}
-              isBlog={false}
-              title="Trip Trip"
-              description="this is my first Landing page, built with basic html, Bootstrap and CSS, it has a beautiful design and decoration."
+              title="Big Heads club"
+              description="this is an NFTs landing page for the Big Heads club, it allows you see some nft tokens in a Carousel and other cool effects, the fake NFTs are generated using the random avatar generator of BigHeads.io"
               link="https://gus-rkds.github.io/trip-trip/"
             />
           </Col>
