@@ -46,6 +46,16 @@ function Projects() {
               link="https://gus-rkds.github.io/trip-trip/"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={triptrip}
+              isBlog={false}
+              title="Trip Trip"
+              description="this is my first Landing page, built with basic html, Bootstrap and CSS, it has a beautiful design and decoration."
+              link="https://gus-rkds.github.io/trip-trip/"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
