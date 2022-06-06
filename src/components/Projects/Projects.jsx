@@ -42,8 +42,8 @@ function Projects() {
               imgPath={nft}
               isBlog={false}
               title="Big Heads club"
-              description="this is an NFTs landing page for the Big Heads club, it allows you see some nft tokens in a Carousel and other cool effects, the fake NFTs are generated using the random avatar generator of BigHeads.io"
-              link="https://gus-rkds.github.io/trip-trip/"
+              description="this is an NFTs landing page for the Big Heads club, it allows you see some nft tokens in a Carousel and other cool effects, the fake NFTs are generated using the random avatar generator from BigHeads.io"
+              link="https://the-big-heads.vercel.app"
             />
           </Col>
 
