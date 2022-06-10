@@ -1,10 +1,10 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import triptrip from "../../Assets/Projects/triptrip.zip";
-import todo from "../../Assets/Projects/todo.zip";
-import movies from "../../Assets/Projects/themoviesplace.zip";
-import nft from "../../Assets/Projects/nft.zip";
+import triptrip from "../../Assets/Projects/triptrip.jpg";
+import todo from "../../Assets/Projects/todo.jpg";
+import movies from "../../Assets/Projects/movies.jpg";
+import nft from "../../Assets/Projects/nft.jpg";
 
 function Projects() {
   return (
